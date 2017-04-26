@@ -1,0 +1,3 @@
+/home/chen/CLionProjects/ImageTrans/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chen/CLionProjects/ImageTrans/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/chen/CLionProjects/ImageTrans/cmake-build-debug/CMakeFiles/ImageTrans.dir
